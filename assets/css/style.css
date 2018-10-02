@@ -1,0 +1,63 @@
+body {
+    background-image: url("../images/just-waves.png")
+}
+
+
+.addArtist {
+
+    padding: 0;
+
+}
+
+
+
+.btn-default {
+
+    margin-right: 10px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.submitButton {
+
+    margin-left: 10px;
+
+
+}
+
+
+.showLineUp{
+   display: inline-block; 
+}
+
+
+
+
+.form-group {
+
+    padding: 0px;
+
+    margin: 0px;
+
+}
+
+
+
+#topicsHere {
+
+    margin-top: 30px;
+
+}
+
+
+
+.title {
+
+    margin-top: 10px;
+
+    margin-bottom: 20px;
+
+} 
