@@ -4,7 +4,7 @@ Giphy API and JavaScript/jQuery
 
 <h1>Live Link</h1>
 <hr>
-<a href="https://denisplaster.github.io/Giphy-API/">
+<a href="https://denisplaster.github.io/Giphy-API/">https://denisplaster.github.io/Giphy-API/</a>
 <h3>Requirements</h3>
 <hr>
 <ul>
@@ -14,7 +14,7 @@ Giphy API and JavaScript/jQuery
     <li>Initialize gif's as stills but allow for animation once clicked</li>
 </ul>
 <h3>Technologies Used</h3>
-<h3>
+<hr>
 <ul>
     <li>Giphy API</li>
     <li>AJAX</li>
@@ -22,7 +22,7 @@ Giphy API and JavaScript/jQuery
     <li>jQuery for DOM manipulation</li>
     <li>HTML</li>
     <li>CSS</li>
-<h3>Code Explanation<h3>
+<h3>Code Explanation</h3>
 <hr>
 <ul>
 <li>Buttons are dynamically generated using jQuery, an array, and a for-loop
