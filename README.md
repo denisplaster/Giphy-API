@@ -22,11 +22,12 @@ Giphy API and JavaScript/jQuery
     <li>jQuery for DOM manipulation</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Bootstrap</li>
 <h3>Code Explanation</h3>
 <hr>
 <ul>
-<li>Buttons are dynamically generated using jQuery, an array, and a for-loop
-<li>Depending on the button clicked, that will send out an AJAX call using the appropriate query to Giphy (certain parameters must be passed <li>in such as the search term, number of responses, and an API key)
-<li>Given the JSON response object, we must then parse through it to display in the HTML using jQuery and the general principle of DOM <li>manipulation
-<li>HTML and CSS were used to style and give the page its basic structure
+<li>Buttons are dynamically generated using jQuery, an array, and a for-loop</li>
+<li>Depending on the button clicked, that will send out an AJAX call using the appropriate query and key id to Giphy</li>
+<li>Given the JSON response object, we must then parse through it to display in the HTML using jQuery DOM manipulation</li>
+<li>HTML and CSS and Bootstrap were used to style and give the page its basic structure</li>
 </ul>
